@@ -1,0 +1,1 @@
+SAFE_ACTIONS = ('retrieve', 'update', 'partial_update', 'destroy', 'create', 'reorder', 'onboarding')
